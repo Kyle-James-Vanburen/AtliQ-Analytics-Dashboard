@@ -1,2 +1,11 @@
 # AtliQ-Analytics-Dashboard
-Power BI and Power Query dashboard 
+
+DASHBOARDS KEY: 
+
+P = Present 
+
+SL = Sick Leave
+
+WFH = Work From Home
+
+
