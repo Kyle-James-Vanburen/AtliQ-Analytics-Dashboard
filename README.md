@@ -1,10 +1,22 @@
 # AtliQ-Analytics-Dashboard
+You will need to install a free desktop version of Power BI
+
+Heres a weblink if you dont want to install Power BI, however you will be asked to make a Power BI account: https://app.powerbi.com/groups/me/reports/2e1cfb8b-dd40-4857-8cb4-513b5de09126/ReportSection?experience=power-bi
+
+# S.T.A.R
+
+SITUATION - AtliQ needs their attendance data to be more analyzed in 2022 for working preference. So, HR has provided me with four Excel CSV data sheets for their 2022 fiscal year. One sheet starting with Apr 22. A second sheet for May 22, and a third sheet for June 22. Along with those three months, I have an attendance key sheet to help track employee attendance records for 2022.
+
+TASK - Do employees prefer to work from home or do they prefer to work from office? So, what is the work from home percentage? What is the percentage for sick leave? And what is the percentage for employee presence?
+
+ACTION - Using Power BIs very powerful power query I collected and transformed the data from the excel sheets. Using the transform data option under the queries box in the home tab, I used the power query editior to apply my dax (Data Analysis Expressions) functions and operators to build my formulas and expressions to collect the needed data. With having the applied steps box on the right, I was able to keep track of my data transformation steps and functions. I made color coded area charts with the opposing key dashboard abbreviation color, in order to make the dashboard easier to read and understand. I also added a dotted trend line in each area chart to show any noticeable trends happening over time. To make the data of the dates more precise I added a slicer filter. Which allows me to see the data of all days from any selected month in the slicer.
+
+RESULT - Because of my initiative, HR is now able to see a clear indication of which employees are working from home and which employees are present. With these good insights HR can now see the number of people being sick on the given period of time in the year. HR is now able to make better utilizations on rental space and able to save cost on infrastructure, with being able to see the percentage of who works from home. 
 
 
 
-WEB LINK if you dont have Power BI installed: https://app.powerbi.com/groups/me/reports/2e1cfb8b-dd40-4857-8cb4-513b5de09126/ReportSection?experience=power-bi
 
-Please note that you might need to sign in with your Power BI account to view the dashboard.
+
 
 DASHBOARD KEY: 
 
@@ -20,4 +32,4 @@ Splicer Filter Top Right: You can select any month or all three and it will chan
 - May 2022
 - Jun 2022 
 
-Area Line Graphs with dotted trend lines used to show trends happening over time and are color coded to the dashboard keys
+
