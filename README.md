@@ -1,6 +1,8 @@
 # AtliQ-Analytics-Dashboard
 You will need to install a free desktop version of Power BI
 
+GUIDE TO INSTALLING MICROSOFT POWER BI: https://www.wallstreetmojo.com/power-bi-desktop-install/
+
 Heres a weblink if you dont want to install Power BI, however you will be asked to make a Power BI account: https://app.powerbi.com/groups/me/reports/2e1cfb8b-dd40-4857-8cb4-513b5de09126/ReportSection?experience=power-bi
 
 # S.T.A.R
