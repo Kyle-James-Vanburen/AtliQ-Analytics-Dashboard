@@ -28,7 +28,7 @@ SL = Sick Leave
 
 WFH = Work From Home
 
-Splicer Filter Top Right: You can select any month or all three, and it will change every visualization on the Dashboard to the precise data selected from the date.
+Slicer Filter Top Right: You can select any month or all three, and it will change every visualization on the Dashboard to the precise data selected from the date.
 
 - April 2022
 - May 2022
