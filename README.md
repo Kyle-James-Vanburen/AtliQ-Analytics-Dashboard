@@ -11,7 +11,7 @@ TASK - I need to know if employees prefer to work from home or do they prefer to
 
 ACTION - Using Power BIs very powerful power query I collected and transformed the data from the excel sheets. Using the transform data option under the queries box in the home tab, I used the power query editior to apply my dax (Data Analysis Expressions) functions and operators to build my formulas and expressions to collect the needed data. With having the applied steps box on the right, I was able to keep track of my data transformation steps and functions. I made color coded area charts with the opposing key dashboard abbreviation color, in order to make the dashboard easier to read and understand. I also added a dotted trend line in each area chart to show any noticeable trends happening over time. To make the data of the dates more precise I added a slicer filter. Which allows me to see the data of all days from any selected month in the slicer.
 
-RESULT - Because of my initiative, HR is now able to see a clear indication of which employees are working from home and which employees are present. With these good insights HR can now see the number of people being sick on the given period of time in the year. HR is now able to make better utilizations on rental space and able to save cost on infrastructure, with being able to see the percentage of who works from home. 
+RESULT - Because of my initiative, HR is now able to see a clear indication and prepare for the following May with May 2022 having the most sick leave percentage. HR is also now able to make better utilizations on rental space and able to save cost on infrastructure, with being able to see the percentage of who works from home. 
 
 
 
