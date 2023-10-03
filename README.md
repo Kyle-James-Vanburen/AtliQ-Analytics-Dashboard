@@ -32,4 +32,5 @@ Splicer Filter Top Right: You can select any month or all three and it will chan
 - May 2022
 - Jun 2022 
 
+CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
 
