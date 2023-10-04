@@ -1,6 +1,6 @@
 # AtliQ-Analytics-Dashboard
 
-## Introduction ##
+### Introduction ###
 AtliQ needed a detailed analysis of their attendance data in 2022 to understand employee working preferences. The HR team provided four Excel CSV data sheets covering the fiscal year of 2022, starting from April to June. The objective was clear: determine if employees prefer working from home or the office, calculate work from home percentages, sick leave percentages, and overall attendance rates.
 
 
