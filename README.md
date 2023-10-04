@@ -1,38 +1,53 @@
 # AtliQ-Analytics-Dashboard
-You will need to install a free desktop version of Power BI
+
+## Introduction ##
+AtliQ needed a detailed analysis of their attendance data in 2022 to understand employee working preferences. The HR team provided four Excel CSV data sheets covering the fiscal year of 2022, starting from April to June. The objective was clear: determine if employees prefer working from home or the office, calculate work from home percentages, sick leave percentages, and overall attendance rates.
+
+
+## Dashboard Overview ##
+**To access the dashboard, you will need to install the free desktop version of Power BI**
 
 Guide to installing Microsoft Power BI: https://www.wallstreetmojo.com/power-bi-desktop-install/
 
-Heres a weblink if you dont want to install Power BI, however you will be asked to make a Power BI account: https://app.powerbi.com/groups/me/reports/2e1cfb8b-dd40-4857-8cb4-513b5de09126/ReportSection?experience=power-bi
+Power BI weblink if you don't want to install, however you will be asked to make a Power BI account: https://app.powerbi.com/groups/me/reports/2e1cfb8b-dd40-4857-8cb4-513b5de09126/ReportSection?experience=power-bi
 
-# S.T.A.R
+## Objectives and Approach ##
+### Objectives ###
 
-SITUATION - AtliQ needs their attendance data to be more analyzed in 2022 for working preference. So, HR has provided me with four Excel CSV data sheets for their 2022 fiscal year. One sheet starting with Apr 22. A second sheet for May 22, and a third sheet for June 22. Along with those three months, I have an attendance key sheet to help track employee attendance records for 2022.
+**• Work Preference Analysis:** Determine if employees prefer working from home or the office.
 
-TASK - I need to know if employees prefer to work from home or do they prefer to work from office? With that question asked, I need to know the work from home percentage for employees. I will also need to know the sick leave percentage for employees. And, lastly, I need to know the percentage for employees who are present at work.
+**• Attendance Metrics:** Calculate work from home percentages, sick leave percentages, and overall attendance rates.
 
-ACTION - Using Power BIs very powerful power query I collected and transformed the data from the excel sheets. Using the transform data option under the queries box in the home tab, I used the power query editior to apply my dax (Data Analysis Expressions) functions and operators to build my formulas and expressions to collect the needed data. With having the applied steps box on the right, I was able to keep track of my data transformation steps and functions. I made color coded area charts with the opposing key dashboard abbreviation color, in order to make the dashboard easier to read and understand. I also added a dotted trend line in each area chart to show any noticeable trends happening over time. To make the data of the dates more precise I added a slicer filter. Which allows me to see the data of all days from any selected month in the slicer.
+### Approach ###
+**• Data Transformation:** Utilized Power BI's powerful power query to collect and transform data from Excel sheets.
 
-RESULT - Because of my initiative, HR is now able to see a clear indication and prepare for the following May with May 2022 having the most sick leave percentage. HR is also now able to make better utilizations on rental space and able to save cost on infrastructure, with being able to see the percentage of who works from home. 
+**• Data Analysis:** Applied DAX (Data Analysis Expressions) functions and operators using Power Query Editor to derive required metrics.
 
+**• Visualization:** Created color-coded area charts with trend lines to represent data visually. Implemented slicer filters for precise date selection.
 
+## Key Findings ##
+**• May 2022 Sick Leave:** Identified May 2022 with the highest sick leave percentage, enabling HR to prepare for potential future trends.
 
+**• Remote Work Trends:** Visualized work-from-home percentages, aiding HR in making informed decisions about office space utilization and infrastructure cost savings.
 
+### Dashboard Key ###
+**• P:** Present 
 
+**• SL:** Sick Leave
 
-DASHBOARD KEY: 
+**• WFH:** Work From Home
 
-P = Present 
+### Slicer Filter ###
 
-SL = Sick Leave
+**• April 2022:** Data specific to April 2022
 
-WFH = Work From Home
+**• May 2022:** Data specific to May 2022
 
-Slicer Filter Top Right: You can select any month or all three, and it will change every visualization on the Dashboard to the precise data selected from the date.
+**• June 2022:** Data specific to June 2022
 
-- April 2022
-- May 2022
-- Jun 2022 
+## Conclusion ##
+Thanks to this initiative, HR at AtliQ now has a clear understanding of employee work preferences and attendance patterns. This data-driven approach has enabled HR to prepare for contingencies, optimize office resources, and enhance cost savings.
 
-CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
+### CONTACT: ###
+If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
 
